@@ -14,10 +14,7 @@
     "native",
     "notify"
   ],
-  "repository": "http://10.0.27.61:8929/hutx/electron-notification.git",
-  "publishConfig" : {
-    "registry" : "http://10.0.27.61:8081/content/repositories/npm-internal/"
-  },
+  "repository": "https://github.com/hutx/electron-notification-desktop.git",  
   "author": "hutx",
   "license": "MIT",  
   "devDependencies": {

@@ -24,11 +24,6 @@ notifier.notify('Notification Title', {
 npm install --save electron-notification-desktop
 ~~~
 
-~~~
-git clone git@github.com:hutx/electron-notification-desktop.git
-npm run playbook
-~~~
-
 ## Introduction
 
 When you create a new notification, your notification is queued, since we only
