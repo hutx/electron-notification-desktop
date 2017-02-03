@@ -1,0 +1,30 @@
+{
+  "name": "electron-notification-desktop",
+  "version": "0.0.1",
+  "description": "A node module for sending desktop notification in electron applications",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "notification",
+    "desktop",
+    "notify-send",
+    "native",
+    "notify"
+  ],
+  "repository": "http://10.0.27.61:8929/hutx/electron-notification.git",
+  "publishConfig" : {
+    "registry" : "http://10.0.27.61:8081/content/repositories/npm-internal/"
+  },
+  "author": "hutx",
+  "license": "MIT",  
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "electron-prebuilt": "^1.4.13"
+  },
+  "dependencies": {
+    "electron-is": "^2.4.0"
+  }
+}
