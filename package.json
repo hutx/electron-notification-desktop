@@ -1,6 +1,6 @@
 {
   "name": "electron-notification-desktop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node module for sending desktop notification in electron applications",
   "main": "index.js",
   "scripts": {
