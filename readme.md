@@ -7,7 +7,7 @@ A node module for sending desktop notification in electron applications.
 ## Quick Usage
 
 ~~~ javascript
-const notifier = require('electron-notfier-desktop')
+const notifier = require('electron-notification-desktop')
 
 // Just title
 notifier.notify('Notification Title')
